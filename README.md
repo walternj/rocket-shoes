@@ -1,5 +1,5 @@
 <h1>ROCKETSHOES<h1>
-  <hr>
+  
   
 <h2>An ecommerce made with ReactJS, Redux, Redux Saga, StyledComponent and more...<h2>
   
