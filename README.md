@@ -1,6 +1,8 @@
 An ecommerce made with ReactJS, Redux, Redux Saga, StyledComponent and more...
 This project is made while my partitipation on the BootCamp GoStack RocketSeat.
 
+![](rocket-shoes/src/assets/imageshome_rocket-shoes.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
