@@ -1,7 +1,9 @@
-ROCKETSHOES
-
-An ecommerce made with ReactJS, Redux, Redux Saga, StyledComponent and more...
-This project is made while my partitipation on the BootCamp GoStack RocketSeat.
+<h1>ROCKETSHOES<h1>
+  <hr>
+  
+<h2>An ecommerce made with ReactJS, Redux, Redux Saga, StyledComponent and more...<h2>
+  
+<h3>This project is made while my partitipation on the BootCamp GoStack RocketSeat.<h3>
 
 ![](src/assets/images/home_rocket-shoes.png)
 
