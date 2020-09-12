@@ -3,7 +3,7 @@
   
 <h2>An ecommerce made with ReactJS, Redux, Redux Saga, StyledComponent and more...<h2>
   
-<h3>This project is made while my partitipation on the BootCamp GoStack RocketSeat.<h3>
+<h3>This project was made while my partitipation on the BootCamp GoStack RocketSeat.<h3>
   
  <p> https://skylab.rocketseat.com.br/dashboard/gostack</p>
  
